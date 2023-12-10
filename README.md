@@ -1,5 +1,8 @@
 #counter
-## Table of Contents
+
+![counter](https://github.com/Mohsen-Hassani-de/counter/assets/72046055/5dfad935-7f98-4997-af8b-53bd216746e2)
+
+## Info
 
 - [Description](#description)
 - [How to Use](#how-to-use)
@@ -30,4 +33,4 @@ The counter project is intentionally designed for ease of understanding. The sty
 ## License
 
 This counter project is provided under the [MIT License](LICENSE), allowing you to use, modify, and distribute the code freely. Feel free to customize it to suit your needs or use it as a foundation for more advanced projects.
-![counter](https://github.com/Mohsen-Hassani-de/counter/assets/72046055/5dfad935-7f98-4997-af8b-53bd216746e2)
+
