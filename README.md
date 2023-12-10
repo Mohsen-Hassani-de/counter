@@ -4,6 +4,7 @@
 
 ## Info
 
+- [Project](#counter)
 - [Description](#description)
 - [How to Use](#how-to-use)
 - [Styling](#styling)
